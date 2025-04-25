@@ -1,4 +1,4 @@
-POO-Java-Lista-02
+# POO-Java-Lista-02
 
 
 Projeto acadêmico de uma pizzaria em Java, desenvolvido com foco em Programação Orientada a Objetos (POO). O sistema permite criar pizzas, adicioná-las a um pedido e calcular o valor total, utilizando abstração, interfaces e tratamento de exceções.
