@@ -7,7 +7,6 @@ Projeto acadêmico de uma pizzaria em Java, desenvolvido com foco em Programaç�
 ## Alunos
 
 Henry Sales
-
 Thiago Silva Lima
 
 ---
