@@ -4,6 +4,12 @@ Projeto acadêmico de uma pizzaria em Java, desenvolvido com foco em Programaç�
 
 ---
 
-## 📚 Sobre o projeto
+## Alunos
+
+Henry Sales
+
+---
+
+## Sobre o projeto
 
 Desenvolvido como atividade para a disciplina de Programação Orientada a Objetos, durante o curso de Sistemas de Informação na Estácio.
